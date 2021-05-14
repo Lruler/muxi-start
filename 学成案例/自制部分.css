@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f3f5f7;
+}
+
+.w {
+    width: 1200px;
+    margin: auto;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.rumen {
+    height: 60px;
+    background-color: #fff;
+    margin-top: 10px;
+    box-shadow: 0 2px 3px 3px rgba(0, 0, 0, 0.1);
+    line-height: 60px;
+}
+
+.rumen h3 {
+    float: left;
+    margin-left: 30px;
+    font-size: 16px;
+}
+
+.rumen ul {
+    margin-left: 351px;
+}
+
+.rumen ul li {
+    float: left;
+    padding-right: 70px;
+}
+
+.rumen ul li a:hover {
+    color: #00a4ff;
+}
+
+.xg {
+    float: right;
+    font-size: 12px;
+    color: #a5a5a5;
+    margin-right: 30px;
+}
+
+.jiemian {
+    height: 390px;
+    margin-top: 33px;
+    margin-top: 15px;
+}
+
+.zuobian {
+    float: left;
+    width: 225px;
+    height: 390px;
+}
+
+.youbian {
+    float: left;
+    width: 955px;
+    height: 390px;
+    margin-left: 20px;
+}
+
+.xiabian ul {
+    width: 1500px;
+}
+
+.xiabian {
+    margin-top: 15px;
+}
+
+.xiabian ul li {
+    float: left;
+    height: 270px;
+    margin-right: 11px;
+    background-color: #fff;
+}
+
+.xiabian ul li h4 {
+    margin: 20px 20px 20px 25px;
+    font-size: 14px;
+    color: #050505;
+    font-weight: 400;
+}
+
+.xiabian .info {
+    margin: 0 20px 0 25px;
+    font-size: 12px;
+    color: #999;
+}
+
+.xiabian .info span {
+    color: #ff7c2d;
+}

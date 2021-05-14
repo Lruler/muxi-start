@@ -1,0 +1,26 @@
+#header {
+    background-color: #cdd3de;
+}
+
+.father {
+    overflow: hidden;
+}
+
+#sidebar2 {
+    float: left;
+    background-color: #086614;
+}
+
+#content {
+    float: left;
+    background-color: #f00d0d;
+}
+
+#sidebar {
+    float: left;
+    background-color: #da7ab2;
+}
+
+#footer {
+    background-color: #e3eb14;
+}
